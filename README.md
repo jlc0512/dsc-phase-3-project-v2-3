@@ -57,7 +57,7 @@ With more time and resources, here are a few next steps that we would like to pu
 
 ## For More Information
 
-See the full analysis in the [Data Cleaning Notebook](data_cleaning_notebook.ipynb) and the [Modeling Jupyter Notebook](modeling_notebook.ipynb) or review [this presentation](xxx.pdf).
+See the full analysis in the [Data Cleaning Notebook](data_cleaning.ipynb) and the [Modeling Jupyter Notebook](modeling_notebook.ipynb) or review [this presentation](xxx.pdf).
 
 For additional info, contact Jillian Clark or Zach Pollatsek as follows:
 
@@ -72,4 +72,4 @@ For additional info, contact Jillian Clark or Zach Pollatsek as follows:
 - README.md
 - xxx.pdf
 - modeling_notebook.ipynb
-- data_cleaning_notebook.ipynb
+- data_cleaning.ipynb
