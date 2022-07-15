@@ -72,5 +72,5 @@ For additional info, contact Jillian Clark or Zach Pollatsek as follows:
 - notebooks
 - .gitignore
 - README.md
-- presentation.pdf
 - LICENSE.md
+- presentation.pdf
