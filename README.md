@@ -33,6 +33,10 @@ The confusion matrix confirms that our model performs best for functional and no
 
 ![](images/ConfusionMatrix.png)
 
+The ROC curves for each feature class are shown below. As we expected, the AUC score for our functional needs repair class is slightly lower than those of the functional and non-functional classes. 
+
+![](images/ROC.png)
+
 
 ### Limitations
 
