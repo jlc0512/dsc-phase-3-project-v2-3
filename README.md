@@ -27,7 +27,7 @@ Our rational for using a Stacking Classifier was to use the strengths of both a 
 
 Our final Stacking Classifier model achieved an accuracy on unseen data of 79.0%. We found that our model correctly classified functional and non-functional water pumps better than pumps that were functional needing repair. This can be seen in the grouped bar chart below:
 
-![](images/preds_by_class.png)
+![](images/ClassPredictions.png)
 
 The confusion matrix confirms that our model performs best for functional and non-functional water pumps. One point of concern with our model is that the majority of misclassifications for pumps that are functional needing repair are that the pumps are functional. This means we would be overlooking select water pumps that need repair because our model classifies them as functional. The confusion matrix can be seen below:
 
@@ -59,7 +59,7 @@ In conclusion, using our model will allow the Tanzanian Ministry of Water to opt
 
 ## For More Information
 
-See the full analysis in the [Data Cleaning Notebook](notebooks/data_cleaning.ipynb) and the [Modeling Jupyter Notebook](notebooks/modeling_notebook.ipynb) or review [this presentation](xxx.pdf).
+See the full analysis in the [Data Cleaning Notebook](notebooks/data_cleaning.ipynb) and the [Modeling Jupyter Notebook](notebooks/modeling_notebook.ipynb) or review [this presentation](presentation.pdf).
 
 For additional info, contact Jillian Clark or Zach Pollatsek as follows:
 
@@ -72,5 +72,5 @@ For additional info, contact Jillian Clark or Zach Pollatsek as follows:
 - notebooks
 - .gitignore
 - README.md
-- xxx.pdf
+- presentation.pdf
 - LICENSE.md
