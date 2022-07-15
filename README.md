@@ -29,13 +29,9 @@ Our final Stacking Classifier model achieved an accuracy on unseen data of 79.0%
 
 ![](images/preds_by_class.png)
 
-An overall report of the various classification metrics for our model on test data is shown below:
-
-![](images/)
-
 The confusion matrix confirms that our model performs best for functional and non-functional water pumps. One point of concern with our model is that the majority of misclassifications for pumps that are functional needing repair are that the pumps are functional. This means we would be overlooking select water pumps that need repair because our model classifies them as functional. The confusion matrix can be seen below:
 
-![](images/)
+![](images/ConfusionMatrix.png)
 
 
 ### Limitations
